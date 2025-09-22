@@ -1,4 +1,4 @@
-# Kernel-Crash-Error-TensorFlow-GPU-
+# Kernel Crash Error TensorFlow GPU
 Solution for TensorFlow GPU kernel crash on Windows (missing zlibwapi.dll)
 **I'm sharing this in hopes of saving you some time—it took me a while to figure out the issue!
 I was trying to run my Python code using TensorFlow with GPU support instead of CPU. After finding the correct versions of everything and making sure my code was running on the GPU, I ran a convolutional code, and the kernel crashed!
